@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1691022035 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\calculadora fechas\calculadora fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Calculadora Fechas.h"
+
+1691022043 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\calculadora fechas\calculadora fechas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1691021244 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\calculadora fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora Fechas.h"
+
